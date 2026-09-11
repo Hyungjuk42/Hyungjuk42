@@ -110,15 +110,20 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hyungjuk42&title_color=00D8FF&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=8" height="180" alt="langs" />
 </picture>
 
-<br/><br/>
+</div>
+
+<!--
+  streak 카드는 뺐습니다. streak-stats.demolab.com 이 현재 전면 장애(503)이고,
+  미러도 heroku 503 / nirzak 402 로 전부 죽어 있습니다. 깨진 이미지를 대문에 두지 않으려고 제거했습니다.
+  서비스가 복구되면 아래 블록의 주석만 풀면 됩니다.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Hyungjuk42&hide_border=true&background=0d1117&ring=00D8FF&fire=00D8FF&currStreakLabel=00D8FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Hyungjuk42&hide_border=true&background=ffffff&ring=0E7490&fire=0E7490&currStreakLabel=0E7490&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=57606a" />
   <img src="https://streak-stats.demolab.com?user=Hyungjuk42&hide_border=true&background=0d1117&ring=00D8FF&fire=00D8FF&currStreakLabel=00D8FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" alt="streak" />
 </picture>
+-->
 
-</div>
 
 <br/>
 

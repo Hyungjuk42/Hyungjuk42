@@ -4,7 +4,11 @@
 const fs = require('fs');
 const path = require('path');
 
-const readme = fs.readFileSync(path.join(__dirname, '..', 'README.md'), 'utf8');
+// HTML 주석 안의 URL 은 화면에 안 뜨므로 검사 대상이 아니다.
+// (빼놓지 않으면 일부러 꺼둔 블록 때문에 검사가 영영 빨갛다 — 아무것도 못 재는 검사가 된다)
+const readme = fs
+  .readFileSync(path.join(__dirname, '..', 'README.md'), 'utf8')
+  .replace(/<!--[\s\S]*?-->/g, '');
 
 const urls = new Set();
 for (const m of readme.matchAll(/(?:src|srcset)="([^"]+)"/g)) urls.add(m[1]);
