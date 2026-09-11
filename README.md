@@ -14,11 +14,11 @@
 
 <br/><br/>
 
-<a href="https://claude.com/claude-code"><img src="https://img.shields.io/badge/Claude_Code-00D8FF?style=flat-square&logo=anthropic&logoColor=black" /></a>&nbsp;
-<a href="https://developers.openai.com/codex/cli"><img src="https://img.shields.io/badge/Codex-00D8FF?style=flat-square" /></a>&nbsp;
-<a href="https://modelcontextprotocol.io"><img src="https://img.shields.io/badge/MCP-00D8FF?style=flat-square&logo=modelcontextprotocol&logoColor=black" /></a>&nbsp;
-<a href="https://linear.app"><img src="https://img.shields.io/badge/Linear-00D8FF?style=flat-square&logo=linear&logoColor=black" /></a>&nbsp;
-<a href="https://www.notion.so"><img src="https://img.shields.io/badge/Notion-00D8FF?style=flat-square&logo=notion&logoColor=black" /></a>
+<a href="https://claude.com/claude-code"><img src="https://img.shields.io/badge/Claude_Code-0E7490?style=flat-square&logo=anthropic&logoColor=white" /></a>&nbsp;
+<a href="https://developers.openai.com/codex/cli"><img src="https://img.shields.io/badge/Codex-0E7490?style=flat-square" /></a>&nbsp;
+<a href="https://modelcontextprotocol.io"><img src="https://img.shields.io/badge/MCP-0E7490?style=flat-square&logo=modelcontextprotocol&logoColor=white" /></a>&nbsp;
+<a href="https://linear.app"><img src="https://img.shields.io/badge/Linear-0E7490?style=flat-square&logo=linear&logoColor=white" /></a>&nbsp;
+<a href="https://www.notion.so"><img src="https://img.shields.io/badge/Notion-0E7490?style=flat-square&logo=notion&logoColor=white" /></a>
 
 </div>
 
@@ -99,9 +99,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=Hyungjuk42&show_icons=true&title_color=00D8FF&text_color=c9d1d9&icon_color=00D8FF&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=Hyungjuk42&show_icons=true&title_color=0E7490&text_color=24292f&icon_color=0E7490&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Hyungjuk42&show_icons=true&title_color=00D8FF&text_color=c9d1d9&icon_color=00D8FF&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" height="180" alt="stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=Hyungjuk42&show_icons=true&title_color=00D8FF&text_color=c9d1d9&icon_color=00D8FF&bg_color=00000000&hide_border=true&include_all_commits=true&hide=stars&rank_icon=github" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=Hyungjuk42&show_icons=true&title_color=0E7490&text_color=24292f&icon_color=0E7490&bg_color=00000000&hide_border=true&include_all_commits=true&hide=stars&rank_icon=github" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Hyungjuk42&show_icons=true&title_color=00D8FF&text_color=c9d1d9&icon_color=00D8FF&bg_color=00000000&hide_border=true&include_all_commits=true&hide=stars&rank_icon=github" height="180" alt="stats" />
 </picture>
 &nbsp;&nbsp;
 <picture>
@@ -145,6 +145,6 @@
 
 <br/><br/>
 
-[![](https://komarev.com/ghpvc/?username=Hyungjuk42&color=00D8FF&style=flat-square&label=)](https://github.com/Hyungjuk42)
+[![](https://komarev.com/ghpvc/?username=Hyungjuk42&color=0E7490&style=flat-square&label=)](https://github.com/Hyungjuk42)
 
 </div>
