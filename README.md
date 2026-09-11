@@ -9,8 +9,6 @@
 <br/>
 
 <sub><b>42 Seoul</b> → <b>조코딩AX 파트너스 · AX Director</b></sub>
-<br/>
-<sub>AI 에이전트를 만들고, 그 에이전트로 다음 것을 만듭니다</sub>
 
 <br/><br/>
 
@@ -52,7 +50,7 @@
 </div>
 
 <details>
-<summary>&nbsp;<b>42 Seoul 에서 밟고 온 것</b>&nbsp;—&nbsp;밑바닥부터 한 번씩</summary>
+<summary>&nbsp;<b>42 Seoul</b>&nbsp;</summary>
 <br/>
 
 <p>
@@ -73,8 +71,7 @@
 </p>
 
 <blockquote>
-프로세스·스레드·소켓·레이트레이싱을 라이브러리 없이 한 번씩 직접 짜 봤습니다.<br/>
-지금 에이전트가 대신 짜 주는 코드를 읽을 때, 이때 만든 감각이 판정 기준이 됩니다.
+프로세스·스레드·소켓·레이트레이싱을 라이브러리 없이 한 번씩 직접 짜 봤습니다.
 </blockquote>
 
 </details>
@@ -140,8 +137,6 @@
 <br/>
 
 <div align="center">
-
-<sub>이 대문도 에이전트가 썼습니다 — 사람은 색만 골랐습니다</sub>
 
 <br/><br/>
 
